@@ -1,3 +1,295 @@
-<p>
-  dashboard works!
-</p>
+<app-toolbar></app-toolbar>
+
+<div fxLayout="row">
+  <div class="sidebar" fxFlex="10">
+    <mat-list role="list">
+      <mat-list-item role="listitem">Item 1</mat-list-item>
+      <mat-list-item role="listitem">Item 2</mat-list-item>
+      <mat-list-item role="listitem">Item 3</mat-list-item>
+    </mat-list>
+  </div>
+  <div class="content" fxLayout="column">
+    <div class="recommended-courses" fxLayout="row wrap">
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+    <div fxLayout="row wrap">
+      <div class="progress" fxFlex="50">
+        <h2>Recent Courses</h2>
+        <mat-list>
+          <mat-list-item>Item 1</mat-list-item>
+          <mat-divider></mat-divider>
+          <mat-list-item>Item 2</mat-list-item>
+          <mat-divider></mat-divider>
+          <mat-list-item>Item 3</mat-list-item>
+        </mat-list>
+      </div>
+      <div class="community">
+        <h2>Community</h2>
+        <mat-list>
+          <mat-list-item>Item 1</mat-list-item>
+          <mat-divider></mat-divider>
+          <mat-list-item>Item 2</mat-list-item>
+          <mat-divider></mat-divider>
+          <mat-list-item>Item 3</mat-list-item>
+        </mat-list>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div fxFill>
+  <div class="sidebar" fxFlex="10">
+    <mat-list role="list">
+      <mat-list-item role="listitem">Item 1</mat-list-item>
+      <mat-list-item role="listitem">Item 2</mat-list-item>
+      <mat-list-item role="listitem">Item 3</mat-list-item>
+    </mat-list>
+  </div>
+  <div class="content" fxFlex>
+    <div class="recommended-courses" fxLayout="row wrap">
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+      <mat-card class="course-card">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Photo of a Shiba Inu"
+        />
+        <mat-card-content>
+          <strong>Course Title</strong>
+          <p>
+            This is the course description. Small details will go here such as
+            what it's about, etc.
+          </p>
+        </mat-card-content>
+        <mat-card-actions fxLayoutAlign="end center">
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>favorite</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            aria-label="Example icon-button with a heart icon"
+          >
+            <mat-icon>add</mat-icon>
+          </button>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+    <div class="progress">
+      <h2>Recent Courses</h2>
+      <mat-list>
+        <mat-list-item>Item 1</mat-list-item>
+        <mat-divider></mat-divider>
+        <mat-list-item>Item 2</mat-list-item>
+        <mat-divider></mat-divider>
+        <mat-list-item>Item 3</mat-list-item>
+      </mat-list>
+    </div>
+    <div class="community">
+      <h2>Community</h2>
+      <mat-list>
+        <mat-list-item>Item 1</mat-list-item>
+        <mat-divider></mat-divider>
+        <mat-list-item>Item 2</mat-list-item>
+        <mat-divider></mat-divider>
+        <mat-list-item>Item 3</mat-list-item>
+      </mat-list>
+    </div>
+  </div>
+</div> -->
