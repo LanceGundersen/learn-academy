@@ -6,9 +6,9 @@ A fake learning platform built using Angular 8, Material and Firebase.
 
 ### General Setup
 
-- [ ] Setup the project
-- [ ] Setup linting (sass, ts, etc.)
-- [ ] Setup rough layout (at least dashboard & routing)
+- [x] Setup the project
+- [x] Setup linting (sass, ts, etc.)
+- [x] Setup rough layout (at least dashboard & routing)
 
 ### Mock Database
 
