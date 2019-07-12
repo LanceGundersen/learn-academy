@@ -19,6 +19,7 @@ import {
   MatListModule,
   MatGridListModule,
   MatIconModule,
+  MatProgressBarModule,
 } from '@angular/material'
 import { ToolbarComponent } from './toolbar/toolbar.component'
 
@@ -42,6 +43,7 @@ import { ToolbarComponent } from './toolbar/toolbar.component'
     MatInputModule,
     MatListModule,
     MatMenuModule,
+    MatProgressBarModule,
     MatSidenavModule,
     MatToolbarModule,
   ],

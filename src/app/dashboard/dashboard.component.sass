@@ -1,18 +1,54 @@
-.sidebar
-  height: 100vh
-  // width: 100px
-
 .content
-  padding: 30px
+  padding: 10px
   width: 100%
+
+  &--top
+    padding: 50px 0
+
+  &--bottom
+    padding: 0 100px
+
+    // .progress,
+    // .community
+    //   padding: 5px
+    //   width: 100%
+
+    .community
+      ul
+        list-style: none
+        margin: 0
+        padding: 0
+
+        li
+          display: inline-block
+          clear: both
+          padding: 10px
+          border-radius: 30px
+          margin-bottom: 2px
+          font-family: Helvetica, Arial, sans-serif
+
+      .mentor
+        background: #eee
+        float: left
+
+      .user
+        float: right
+        background: #0084ff
+        color: #fff
+
+        &:last-of-type
+          border-bottom-right-radius: 30px
+
+      .mentor + .user
+        border-bottom-right-radius: 5px
+
+      .user + .user
+        border-top-right-radius: 5px
+        border-bottom-right-radius: 5px
 
   .course-card
     margin: 5px
     width: 20%
 
-  .sub-contet
-    .progress,
-    .community
-      padding: 5px
-      width: 100%
+
 
