@@ -2,6 +2,46 @@
 
 A fake learning platform built using Angular 8, Material and Firebase.
 
+## To Do List
+
+### General Setup
+
+- [ ] Setup the project
+- [ ] Setup linting (sass, ts, etc.)
+- [ ] Setup rough layout (at least dashboard & routing)
+
+### Mock Database
+
+- [ ] Person Data
+  - [ ] User Id
+  - [ ] First Name
+  - [ ] Last Name
+  - [ ] Avatar
+  - [ ] Courses
+    - [ ] Completed
+    - [ ] In Progress
+- [ ] Course Data
+  - [ ] Course Id
+  - [ ] Course title
+  - [ ] Course description (long & short)
+  - [ ] Course completion (boolean)
+  - [ ] Course completion status (percent)
+  - [ ] Course favorited (boolean)
+- [ ] Mentor Chats
+
+### Dashboard
+
+- [ ] Tie in db calls
+
+### Course Page
+
+- [ ] Layout course
+- [ ] Tie in db calls
+
+...more tbd
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
