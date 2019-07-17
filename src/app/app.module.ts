@@ -1,3 +1,4 @@
+import { HttpClientModule } from '@angular/common/http'
 import { BrowserModule } from '@angular/platform-browser'
 import { NgModule } from '@angular/core'
 
@@ -36,6 +37,7 @@ import { ToolbarComponent } from './toolbar/toolbar.component'
     AppRoutingModule,
     BrowserAnimationsModule,
     FlexLayoutModule,
+    HttpClientModule,
     MatButtonModule,
     MatCardModule,
     MatGridListModule,
