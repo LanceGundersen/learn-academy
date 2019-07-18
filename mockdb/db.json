@@ -1,365 +1,355 @@
 {
-  "users": [
-    {
-      "id": "5d2b54ee6f4fa5605cffe215",
-      "isActive": true,
-      "avatar": "assets/lowebarrett.jpg",
-      "name": {
-        "first": "Lowe",
-        "last": "Barrett"
-      },
-      "company": "NAMEGEN",
-      "email": "lowe.barrett@namegen.biz",
-      "phone": "+1 (976) 549-2490",
-      "address": "689 Bayard Street, Caspar, District Of Columbia, 7744",
-      "about": "Laborum cillum commodo enim eiusmod cupidatat elit exercitation. Esse voluptate enim amet adipisicing laboris sit. Qui incididunt anim proident proident non labore labore veniam voluptate sunt.",
-      "registered": "Monday, July 24, 2017 10:11 PM",
-      "courses": [
+    "users": [
         {
-          "id": "course1",
-          "percentComplete": 50,
-          "isFavorite": false
+            "id": "5d2b54ee6f4fa5605cffe215",
+            "isActive": true,
+            "avatar": "assets/lowebarrett.jpg",
+            "name": {
+                "first": "Lowe",
+                "last": "Barrett"
+            },
+            "company": "NAMEGEN",
+            "email": "lowe.barrett@namegen.biz",
+            "phone": "+1 (976) 549-2490",
+            "address": "689 Bayard Street, Caspar, District Of Columbia, 7744",
+            "about": "Laborum cillum commodo enim eiusmod cupidatat elit exercitation. Esse voluptate enim amet adipisicing laboris sit. Qui incididunt anim proident proident non labore labore veniam voluptate sunt.",
+            "registered": "Monday, July 24, 2017 10:11 PM",
+            "courses": [
+                {
+                    "id": "course1",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course8",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course4",
+                    "percentComplete": 25,
+                    "isFavorite": true
+                },
+                {
+                    "id": "course7",
+                    "percentComplete": 56,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course11",
+                    "percentComplete": 100,
+                    "isFavorite": true
+                }
+            ]
         },
         {
-          "id": "course8",
-          "percentComplete": 50,
-          "isFavorite": false
+            "id": "5d2b54ee1a511b67aae92c99",
+            "isActive": false,
+            "avatar": "assets/elsafloyd.jpg",
+            "name": {
+                "first": "Elsa",
+                "last": "Floyd"
+            },
+            "company": "TALKOLA",
+            "email": "elsa.floyd@talkola.us",
+            "phone": "+1 (938) 583-3374",
+            "address": "889 Cortelyou Road, Bath, Alabama, 198",
+            "about": "Amet Lorem in nostrud incididunt et cillum dolor eu. Nostrud ullamco incididunt quis enim et pariatur do anim consequat eu. Labore sunt amet sunt proident officia velit sunt consequat.",
+            "registered": "Friday, July 14, 2017 2:50 PM",
+            "courses": [
+                {
+                    "id": "course1",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course8",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course4",
+                    "percentComplete": 25,
+                    "isFavorite": true
+                },
+                {
+                    "id": "course7",
+                    "percentComplete": 56,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course11",
+                    "percentComplete": 100,
+                    "isFavorite": true
+                }
+            ]
         },
         {
-          "id": "course4",
-          "percentComplete": 25,
-          "isFavorite": true
+            "id": "5d2b54ee0fc4f4b0c32a58db",
+            "isActive": false,
+            "avatar": "assets/ballardbarker.jpg",
+            "name": {
+                "first": "Ballard",
+                "last": "Barker"
+            },
+            "company": "DRAGBOT",
+            "email": "ballard.barker@dragbot.name",
+            "phone": "+1 (963) 571-3834",
+            "address": "330 Bridge Street, Sena, Hawaii, 6300",
+            "about": "Dolore minim tempor reprehenderit adipisicing irure ut anim sint officia dolore laborum est. Mollit incididunt enim ex id eu consequat voluptate laborum laboris exercitation culpa minim. Sint ipsum aute laboris elit anim duis laborum magna id.",
+            "registered": "Sunday, December 21, 2014 10:35 AM",
+            "courses": [
+                {
+                    "id": "course1",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course8",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course4",
+                    "percentComplete": 25,
+                    "isFavorite": true
+                },
+                {
+                    "id": "course7",
+                    "percentComplete": 56,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course11",
+                    "percentComplete": 100,
+                    "isFavorite": true
+                }
+            ]
         },
         {
-          "id": "course7",
-          "percentComplete": 56,
-          "isFavorite": false
+            "id": "5d2b54ee2b5179540d9ccf58",
+            "isActive": false,
+            "avatar": "assets/eugenialeblanc.jpg",
+            "name": {
+                "first": "Eugenia",
+                "last": "Leblanc"
+            },
+            "company": "FLEETMIX",
+            "email": "eugenia.leblanc@fleetmix.info",
+            "phone": "+1 (913) 548-3887",
+            "address": "704 McDonald Avenue, Glidden, New Mexico, 9602",
+            "about": "Deserunt adipisicing aliquip eu in eu. Consequat minim voluptate quis reprehenderit cillum velit elit mollit laborum velit officia. Velit ullamco in officia eiusmod.",
+            "registered": "Thursday, October 27, 2016 3:10 AM",
+            "courses": [
+                {
+                    "id": "course1",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course8",
+                    "percentComplete": 50,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course4",
+                    "percentComplete": 25,
+                    "isFavorite": true
+                },
+                {
+                    "id": "course7",
+                    "percentComplete": 56,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course11",
+                    "percentComplete": 100,
+                    "isFavorite": true
+                }
+            ]
         },
         {
-          "id": "course11",
-          "percentComplete": 100,
-          "isFavorite": true
+            "id": "5d2b54eeb904d03e0975752a",
+            "isActive": true,
+            "avatar": "assets/rodriquezwoodard.jpg",
+            "name": {
+                "first": "Rodriquez",
+                "last": "Woodard"
+            },
+            "company": "REMOLD",
+            "email": "rodriquez.woodard@remold.org",
+            "phone": "+1 (816) 521-2517",
+            "address": "645 Eckford Street, Bakersville, Iowa, 2599",
+            "about": "Ipsum duis aute elit id. Nostrud deserunt qui laboris nostrud eiusmod nulla pariatur do eiusmod commodo non fugiat reprehenderit. Ex consectetur aliqua culpa dolor irure culpa sit consectetur nulla irure est proident.",
+            "registered": "Friday, November 4, 2016 8:13 PM",
+            "courses": [
+                {
+                    "id": "course6",
+                    "percentComplete": 100,
+                    "isFavorite": false
+                }
+            ]
+        },
+        {
+            "id": "5d2b54ee2ae2aa626f7c2e64",
+            "isActive": true,
+            "avatar": "assets/jensenhoffman.png",
+            "name": {
+                "first": "Jensen",
+                "last": "Hoffman"
+            },
+            "company": "MELBACOR",
+            "email": "jensen.hoffman@melbacor.tv",
+            "phone": "+1 (985) 493-2096",
+            "address": "806 Clarkson Avenue, Veyo, Texas, 566",
+            "about": "Proident cupidatat nostrud anim nulla veniam irure. Et laboris consequat enim fugiat dolore ad duis irure id consectetur pariatur anim culpa. Id enim ullamco excepteur nostrud anim.",
+            "registered": "Saturday, June 3, 2017 4:29 PM",
+            "courses": [
+                {
+                    "id": "course1",
+                    "percentComplete": 90,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course2",
+                    "percentComplete": 100,
+                    "isFavorite": true
+                }
+            ]
+        },
+        {
+            "id": "5d2b54ee6c392277d5de4a8a",
+            "isActive": false,
+            "avatar": "assets/kayburton.jpg",
+            "name": {
+                "first": "Kay",
+                "last": "Burton"
+            },
+            "company": "ROBOID",
+            "email": "kay.burton@roboid.co.uk",
+            "phone": "+1 (803) 549-3994",
+            "address": "870 Polhemus Place, Oley, Utah, 7655",
+            "about": "Ipsum Lorem esse sint velit nulla et ex esse quis excepteur cillum excepteur adipisicing qui. Minim exercitation incididunt culpa non duis irure duis. Magna in eu consequat sunt amet.",
+            "registered": "Thursday, May 5, 2016 8:08 AM",
+            "courses": [
+                {
+                    "id": "course4",
+                    "percentComplete": 2,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course7",
+                    "percentComplete": 14,
+                    "isFavorite": false
+                },
+                {
+                    "id": "course2",
+                    "percentComplete": 73,
+                    "isFavorite": false
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "5d2b54ee1a511b67aae92c99",
-      "isActive": false,
-      "avatar": "assets/elsafloyd.jpg",
-      "name": {
-        "first": "Elsa",
-        "last": "Floyd"
-      },
-      "company": "TALKOLA",
-      "email": "elsa.floyd@talkola.us",
-      "phone": "+1 (938) 583-3374",
-      "address": "889 Cortelyou Road, Bath, Alabama, 198",
-      "about": "Amet Lorem in nostrud incididunt et cillum dolor eu. Nostrud ullamco incididunt quis enim et pariatur do anim consequat eu. Labore sunt amet sunt proident officia velit sunt consequat.",
-      "registered": "Friday, July 14, 2017 2:50 PM",
-      "courses": [
+    ],
+    "courses": [
         {
-          "id": "course1",
-          "percentComplete": 50,
-          "isFavorite": false
+            "id": "5d2b5e20004ee101d33ce047",
+            "isActive": true,
+            "title": "course1",
+            "description": {
+                "short": "Est dolor ea veniam proident Lorem sit ipsum amet officia eu culpa.",
+                "long": "Amet ullamco dolore excepteur ea officia aliquip proident. Adipisicing amet tempor excepteur consectetur labore qui consequat ad cupidatat sunt sint. Deserunt dolore nisi ullamco cupidatat nisi ea consequat sit cupidatat magna."
+            },
+            "videoUrl": "assets/video-placeholder.png"
         },
         {
-          "id": "course8",
-          "percentComplete": 50,
-          "isFavorite": false
+            "id": "5d2b5e20ec2fc9ff58e058f5",
+            "isActive": false,
+            "title": "course2",
+            "description": {
+                "short": "Adipisicing sint eu commodo quis ullamco consequat dolore velit anim ipsum dolor.",
+                "long": "Cupidatat est exercitation voluptate amet do qui ad nostrud incididunt ea. Reprehenderit velit labore et aliqua consequat officia quis magna do. Enim tempor voluptate deserunt deserunt do ullamco incididunt eu ex excepteur culpa do. Minim eu ex sunt aliqua aliqua deserunt consequat. Dolore adipisicing ullamco esse culpa elit esse non velit deserunt amet. Enim proident amet aute ipsum magna non pariatur. Ex ullamco sint cupidatat consequat ex nulla labore consectetur exercitation Lorem enim minim ex officia."
+            },
+            "videoUrl": "assets/video-placeholder.png"
         },
         {
-          "id": "course4",
-          "percentComplete": 25,
-          "isFavorite": true
+            "id": "5d2b5e20f3ca017e1c92abe5",
+            "isActive": true,
+            "title": "course3",
+            "description": {
+                "short": "Et aliqua occaecat incididunt tempor.",
+                "long": "Tempor minim sint anim in proident deserunt aliqua aliquip proident do velit consequat. Enim elit mollit quis excepteur esse aliquip id. Dolore deserunt dolore excepteur dolor ea nisi non ex. Aute cupidatat laborum aute exercitation nostrud sunt velit sit mollit consequat officia duis. Adipisicing dolore nulla Lorem nostrud. Nostrud cillum consequat cillum enim aliqua excepteur dolor do nisi ipsum nulla."
+            },
+            "videoUrl": "assets/video-placeholder.png"
         },
         {
-          "id": "course7",
-          "percentComplete": 56,
-          "isFavorite": false
+            "id": "5d2b5e206dd2a087712963f8",
+            "isActive": true,
+            "title": "course4",
+            "description": {
+                "short": "Consectetur officia dolor dolore ex velit elit dolor.",
+                "long": "Enim exercitation et irure et eiusmod amet reprehenderit exercitation. Reprehenderit aliqua occaecat fugiat occaecat ut cupidatat proident laborum eiusmod ullamco sit. Ea laboris adipisicing minim magna esse. Ut anim sint voluptate pariatur fugiat reprehenderit ullamco ullamco voluptate proident. Cillum minim commodo sunt laboris. Excepteur sint in eu do tempor duis nostrud tempor proident eu mollit. Magna mollit aute magna adipisicing labore eu anim duis aliqua culpa do sunt nostrud tempor."
+            },
+            "videoUrl": "assets/video-placeholder.png"
         },
         {
-          "id": "course11",
-          "percentComplete": 100,
-          "isFavorite": true
+            "id": "5d2b5e20799472fcc315818a",
+            "isActive": false,
+            "title": "course5",
+            "description": {
+                "short": "Est est occaecat voluptate mollit et excepteur dolor nulla aliquip reprehenderit cillum ex.",
+                "long": "Anim est velit reprehenderit ex Lorem sit mollit voluptate dolor cillum dolor labore. Sunt laborum duis quis tempor officia. Tempor id labore consequat ipsum commodo nulla exercitation exercitation Lorem. Eiusmod exercitation cupidatat cillum dolore in sit incididunt tempor dolore."
+            },
+            "videoUrl": "assets/video-placeholder.png"
+        },
+        {
+            "id": "5d2b5e200726d71bbed287a8",
+            "isActive": false,
+            "title": "course6",
+            "description": {
+                "short": "Cillum fugiat exercitation deserunt elit quis pariatur eu exercitation aute sit proident eu adipisicing.",
+                "long": "Magna dolor anim exercitation velit. Amet velit irure laborum tempor ut officia aliquip commodo deserunt incididunt esse duis. Proident cupidatat Lorem proident duis reprehenderit officia adipisicing."
+            },
+            "videoUrl": "assets/video-placeholder.png"
+        },
+        {
+            "id": "5d2b5e20a1fcede0b4f41a9f",
+            "isActive": true,
+            "title": "course7",
+            "description": {
+                "short": "Tempor amet enim dolore mollit elit culpa non adipisicing laboris exercitation deserunt commodo.",
+                "long": "Duis est et tempor nostrud voluptate officia exercitation. Nisi culpa commodo sunt aliquip eu. Consectetur incididunt laborum laborum cillum tempor. Id tempor enim nisi laborum aliqua magna tempor aliquip pariatur fugiat ullamco."
+            },
+            "videoUrl": "assets/video-placeholder.png"
+        },
+        {
+            "id": "5d2b5e20cb95b13a08240563",
+            "isActive": false,
+            "title": "course8",
+            "description": {
+                "short": "Ad culpa quis aliqua fugiat cillum id anim eiusmod enim ut ipsum.",
+                "long": "Aute elit in amet cupidatat nostrud magna voluptate irure. Cillum ut do pariatur proident ad ut id exercitation sint et consequat id nostrud. Cillum duis do eu do minim nulla consectetur cupidatat sunt sunt dolore laborum sint amet. Nostrud incididunt pariatur enim eu duis ex. Ipsum Lorem ullamco laborum laborum anim Lorem quis veniam veniam duis aliquip qui."
+            },
+            "videoUrl": "assets/video-placeholder.png"
+        },
+        {
+            "id": "5d2b5e206f5e7c057579af5f",
+            "isActive": true,
+            "title": "course9",
+            "description": {
+                "short": "Occaecat ipsum sunt culpa fugiat in excepteur laboris eu labore ipsum velit.",
+                "long": "Consectetur occaecat non culpa dolore. Et nisi eiusmod in ex deserunt eu consectetur officia do ullamco ullamco. Aliquip ipsum duis culpa aliqua esse. Sunt minim fugiat velit eu occaecat aliquip tempor deserunt ipsum exercitation exercitation irure minim. Pariatur in nisi quis sit proident elit voluptate eu excepteur voluptate sint exercitation veniam sint. Sint exercitation proident deserunt dolore laborum labore. Anim sit minim adipisicing qui id anim pariatur ex laboris."
+            },
+            "videoUrl": "assets/video-placeholder.png"
+        },
+        {
+            "id": "5d2b5e20a47d83929b2ba3ce",
+            "isActive": false,
+            "title": "course10",
+            "description": {
+                "short": "Aute cillum exercitation laboris pariatur pariatur consequat qui quis Lorem nulla.",
+                "long": "Elit aliquip pariatur laborum laboris occaecat magna cillum ipsum. Anim id ad id consequat qui Lorem occaecat fugiat cillum magna occaecat. Eiusmod dolor deserunt non occaecat in cillum irure sunt cillum eiusmod. Dolore enim sit dolor reprehenderit exercitation pariatur. Laborum nostrud laboris veniam minim. Aliqua veniam ad aliquip ipsum incididunt cupidatat officia sint esse magna non ad. Et non nostrud incididunt eu aliquip officia qui reprehenderit pariatur nostrud."
+            },
+            "videoUrl": "assets/video-placeholder.png"
         }
-      ]
-    },
-    {
-      "id": "5d2b54ee0fc4f4b0c32a58db",
-      "isActive": false,
-      "avatar": "assets/ballardbarker.jpg",
-      "name": {
-        "first": "Ballard",
-        "last": "Barker"
-      },
-      "company": "DRAGBOT",
-      "email": "ballard.barker@dragbot.name",
-      "phone": "+1 (963) 571-3834",
-      "address": "330 Bridge Street, Sena, Hawaii, 6300",
-      "about": "Dolore minim tempor reprehenderit adipisicing irure ut anim sint officia dolore laborum est. Mollit incididunt enim ex id eu consequat voluptate laborum laboris exercitation culpa minim. Sint ipsum aute laboris elit anim duis laborum magna id.",
-      "registered": "Sunday, December 21, 2014 10:35 AM",
-      "courses": [
-        {
-          "id": "course1",
-          "percentComplete": 50,
-          "isFavorite": false
-        },
-        {
-          "id": "course8",
-          "percentComplete": 50,
-          "isFavorite": false
-        },
-        {
-          "id": "course4",
-          "percentComplete": 25,
-          "isFavorite": true
-        },
-        {
-          "id": "course7",
-          "percentComplete": 56,
-          "isFavorite": false
-        },
-        {
-          "id": "course11",
-          "percentComplete": 100,
-          "isFavorite": true
-        }
-      ]
-    },
-    {
-      "id": "5d2b54ee2b5179540d9ccf58",
-      "isActive": false,
-      "avatar": "assets/eugenialeblanc.jpg",
-      "name": {
-        "first": "Eugenia",
-        "last": "Leblanc"
-      },
-      "company": "FLEETMIX",
-      "email": "eugenia.leblanc@fleetmix.info",
-      "phone": "+1 (913) 548-3887",
-      "address": "704 McDonald Avenue, Glidden, New Mexico, 9602",
-      "about": "Deserunt adipisicing aliquip eu in eu. Consequat minim voluptate quis reprehenderit cillum velit elit mollit laborum velit officia. Velit ullamco in officia eiusmod.",
-      "registered": "Thursday, October 27, 2016 3:10 AM",
-      "courses": [
-        {
-          "id": "course1",
-          "percentComplete": 50,
-          "isFavorite": false
-        },
-        {
-          "id": "course8",
-          "percentComplete": 50,
-          "isFavorite": false
-        },
-        {
-          "id": "course4",
-          "percentComplete": 25,
-          "isFavorite": true
-        },
-        {
-          "id": "course7",
-          "percentComplete": 56,
-          "isFavorite": false
-        },
-        {
-          "id": "course11",
-          "percentComplete": 100,
-          "isFavorite": true
-        }
-      ]
-    },
-    {
-      "id": "5d2b54eeb904d03e0975752a",
-      "isActive": true,
-      "avatar": "assets/rodriquezwoodard.jpg",
-      "name": {
-        "first": "Rodriquez",
-        "last": "Woodard"
-      },
-      "company": "REMOLD",
-      "email": "rodriquez.woodard@remold.org",
-      "phone": "+1 (816) 521-2517",
-      "address": "645 Eckford Street, Bakersville, Iowa, 2599",
-      "about": "Ipsum duis aute elit id. Nostrud deserunt qui laboris nostrud eiusmod nulla pariatur do eiusmod commodo non fugiat reprehenderit. Ex consectetur aliqua culpa dolor irure culpa sit consectetur nulla irure est proident.",
-      "registered": "Friday, November 4, 2016 8:13 PM",
-      "courses": [
-        {
-          "id": "course6",
-          "percentComplete": 100,
-          "isFavorite": false
-        }
-      ]
-    },
-    {
-      "id": "5d2b54ee2ae2aa626f7c2e64",
-      "isActive": true,
-      "avatar": "assets/jensenhoffman.png",
-      "name": {
-        "first": "Jensen",
-        "last": "Hoffman"
-      },
-      "company": "MELBACOR",
-      "email": "jensen.hoffman@melbacor.tv",
-      "phone": "+1 (985) 493-2096",
-      "address": "806 Clarkson Avenue, Veyo, Texas, 566",
-      "about": "Proident cupidatat nostrud anim nulla veniam irure. Et laboris consequat enim fugiat dolore ad duis irure id consectetur pariatur anim culpa. Id enim ullamco excepteur nostrud anim.",
-      "registered": "Saturday, June 3, 2017 4:29 PM",
-      "courses": [
-        {
-          "id": "course1",
-          "percentComplete": 90,
-          "isFavorite": false
-        },
-        {
-          "id": "course2",
-          "percentComplete": 100,
-          "isFavorite": true
-        }
-      ]
-    },
-    {
-      "id": "5d2b54ee6c392277d5de4a8a",
-      "isActive": false,
-      "avatar": "assets/kayburton.jpg",
-      "name": {
-        "first": "Kay",
-        "last": "Burton"
-      },
-      "company": "ROBOID",
-      "email": "kay.burton@roboid.co.uk",
-      "phone": "+1 (803) 549-3994",
-      "address": "870 Polhemus Place, Oley, Utah, 7655",
-      "about": "Ipsum Lorem esse sint velit nulla et ex esse quis excepteur cillum excepteur adipisicing qui. Minim exercitation incididunt culpa non duis irure duis. Magna in eu consequat sunt amet.",
-      "registered": "Thursday, May 5, 2016 8:08 AM",
-      "courses": [
-        {
-          "id": "course4",
-          "percentComplete": 2,
-          "isFavorite": false
-        },
-        {
-          "id": "course7",
-          "percentComplete": 14,
-          "isFavorite": false
-        },
-        {
-          "id": "course2",
-          "percentComplete": 73,
-          "isFavorite": false
-        }
-      ]
-    }
-  ],
-  "courses": [
-    {
-      "id": "5d2b5e20004ee101d33ce047",
-      "isActive": true,
-      "title": "course1",
-      "description": {
-        "short": "Est dolor ea veniam proident Lorem sit ipsum amet officia eu culpa.",
-        "long": "Amet ullamco dolore excepteur ea officia aliquip proident. Adipisicing amet tempor excepteur consectetur labore qui consequat ad cupidatat sunt sint. Deserunt dolore nisi ullamco cupidatat nisi ea consequat sit cupidatat magna."
-      },
-      "company": "FRANSCENE",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e20ec2fc9ff58e058f5",
-      "isActive": false,
-      "title": "course2",
-      "description": {
-        "short": "Adipisicing sint eu commodo quis ullamco consequat dolore velit anim ipsum dolor.",
-        "long": "Cupidatat est exercitation voluptate amet do qui ad nostrud incididunt ea. Reprehenderit velit labore et aliqua consequat officia quis magna do. Enim tempor voluptate deserunt deserunt do ullamco incididunt eu ex excepteur culpa do. Minim eu ex sunt aliqua aliqua deserunt consequat. Dolore adipisicing ullamco esse culpa elit esse non velit deserunt amet. Enim proident amet aute ipsum magna non pariatur. Ex ullamco sint cupidatat consequat ex nulla labore consectetur exercitation Lorem enim minim ex officia."
-      },
-      "company": "BRISTO",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e20f3ca017e1c92abe5",
-      "isActive": true,
-      "title": "course3",
-      "description": {
-        "short": "Et aliqua occaecat incididunt tempor.",
-        "long": "Tempor minim sint anim in proident deserunt aliqua aliquip proident do velit consequat. Enim elit mollit quis excepteur esse aliquip id. Dolore deserunt dolore excepteur dolor ea nisi non ex. Aute cupidatat laborum aute exercitation nostrud sunt velit sit mollit consequat officia duis. Adipisicing dolore nulla Lorem nostrud. Nostrud cillum consequat cillum enim aliqua excepteur dolor do nisi ipsum nulla."
-      },
-      "company": "HATOLOGY",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e206dd2a087712963f8",
-      "isActive": true,
-      "title": "course4",
-      "description": {
-        "short": "Consectetur officia dolor dolore ex velit elit dolor.",
-        "long": "Enim exercitation et irure et eiusmod amet reprehenderit exercitation. Reprehenderit aliqua occaecat fugiat occaecat ut cupidatat proident laborum eiusmod ullamco sit. Ea laboris adipisicing minim magna esse. Ut anim sint voluptate pariatur fugiat reprehenderit ullamco ullamco voluptate proident. Cillum minim commodo sunt laboris. Excepteur sint in eu do tempor duis nostrud tempor proident eu mollit. Magna mollit aute magna adipisicing labore eu anim duis aliqua culpa do sunt nostrud tempor."
-      },
-      "company": "NIXELT",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e20799472fcc315818a",
-      "isActive": false,
-      "title": "course5",
-      "description": {
-        "short": "Est est occaecat voluptate mollit et excepteur dolor nulla aliquip reprehenderit cillum ex.",
-        "long": "Anim est velit reprehenderit ex Lorem sit mollit voluptate dolor cillum dolor labore. Sunt laborum duis quis tempor officia. Tempor id labore consequat ipsum commodo nulla exercitation exercitation Lorem. Eiusmod exercitation cupidatat cillum dolore in sit incididunt tempor dolore."
-      },
-      "company": "CALLFLEX",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e200726d71bbed287a8",
-      "isActive": false,
-      "title": "course6",
-      "description": {
-        "short": "Cillum fugiat exercitation deserunt elit quis pariatur eu exercitation aute sit proident eu adipisicing.",
-        "long": "Magna dolor anim exercitation velit. Amet velit irure laborum tempor ut officia aliquip commodo deserunt incididunt esse duis. Proident cupidatat Lorem proident duis reprehenderit officia adipisicing."
-      },
-      "company": "VORATAK",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e20a1fcede0b4f41a9f",
-      "isActive": true,
-      "title": "course7",
-      "description": {
-        "short": "Tempor amet enim dolore mollit elit culpa non adipisicing laboris exercitation deserunt commodo.",
-        "long": "Duis est et tempor nostrud voluptate officia exercitation. Nisi culpa commodo sunt aliquip eu. Consectetur incididunt laborum laborum cillum tempor. Id tempor enim nisi laborum aliqua magna tempor aliquip pariatur fugiat ullamco."
-      },
-      "company": "VANTAGE",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e20cb95b13a08240563",
-      "isActive": false,
-      "title": "course8",
-      "description": {
-        "short": "Ad culpa quis aliqua fugiat cillum id anim eiusmod enim ut ipsum.",
-        "long": "Aute elit in amet cupidatat nostrud magna voluptate irure. Cillum ut do pariatur proident ad ut id exercitation sint et consequat id nostrud. Cillum duis do eu do minim nulla consectetur cupidatat sunt sunt dolore laborum sint amet. Nostrud incididunt pariatur enim eu duis ex. Ipsum Lorem ullamco laborum laborum anim Lorem quis veniam veniam duis aliquip qui."
-      },
-      "company": "BEDLAM",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e206f5e7c057579af5f",
-      "isActive": true,
-      "title": "course9",
-      "description": {
-        "short": "Occaecat ipsum sunt culpa fugiat in excepteur laboris eu labore ipsum velit.",
-        "long": "Consectetur occaecat non culpa dolore. Et nisi eiusmod in ex deserunt eu consectetur officia do ullamco ullamco. Aliquip ipsum duis culpa aliqua esse. Sunt minim fugiat velit eu occaecat aliquip tempor deserunt ipsum exercitation exercitation irure minim. Pariatur in nisi quis sit proident elit voluptate eu excepteur voluptate sint exercitation veniam sint. Sint exercitation proident deserunt dolore laborum labore. Anim sit minim adipisicing qui id anim pariatur ex laboris."
-      },
-      "company": "ISOLOGIX",
-      "videoUrl": "assets/video-placeholder.png"
-    },
-    {
-      "id": "5d2b5e20a47d83929b2ba3ce",
-      "isActive": false,
-      "title": "course10",
-      "description": {
-        "short": "Aute cillum exercitation laboris pariatur pariatur consequat qui quis Lorem nulla.",
-        "long": "Elit aliquip pariatur laborum laboris occaecat magna cillum ipsum. Anim id ad id consequat qui Lorem occaecat fugiat cillum magna occaecat. Eiusmod dolor deserunt non occaecat in cillum irure sunt cillum eiusmod. Dolore enim sit dolor reprehenderit exercitation pariatur. Laborum nostrud laboris veniam minim. Aliqua veniam ad aliquip ipsum incididunt cupidatat officia sint esse magna non ad. Et non nostrud incididunt eu aliquip officia qui reprehenderit pariatur nostrud."
-      },
-      "company": "HINWAY",
-      "videoUrl": "assets/video-placeholder.png"
-    }
-  ]
+    ]
 }
