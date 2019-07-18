@@ -12,22 +12,30 @@ A fake learning platform built using Angular 8, Material and Firebase.
 
 ### Mock Database
 
-- [ ] Person Data
-  - [ ] User Id
-  - [ ] First Name
-  - [ ] Last Name
-  - [ ] Avatar
-  - [ ] Courses
-    - [ ] Completed
-    - [ ] In Progress
-- [ ] Course Data
-  - [ ] Course Id
-  - [ ] Course title
-  - [ ] Course description (long & short)
-  - [ ] Course completion (boolean)
-  - [ ] Course completion status (percent)
-  - [ ] Course favorited (boolean)
+- [x] Person Data
+  - [x] User Id
+  - [x] Active
+  - [x] First Name
+  - [x] Last Name
+  - [x] Avatar
+  - [x] Courses
+    - [x] id
+    - [x] Completed
+    - [x] In Progress
+- [x] Course Data
+  - [x] Course Id
+  - [x] Course title
+  - [x] Course description (long & short)
+  - [x] Video URL
 - [ ] Mentor Chats
+
+### Store
+
+- [ ] Services
+- [x] Actions
+- [ ] Effects
+- [x] Reducers
+- [x] Types
 
 ### Dashboard
 
@@ -42,11 +50,15 @@ A fake learning platform built using Angular 8, Material and Firebase.
 
 ---
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## JSON Server
+
+Run `npm run json-server` for the dev database server. Navigate to `http://localhost:3004`. The console will update as CRUD operations occur.
 
 ## Code scaffolding
 
