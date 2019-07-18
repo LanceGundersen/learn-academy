@@ -1,5 +1,5 @@
-import { ApiService } from './../services/api.service'
 import { Injectable } from '@angular/core'
+import { ApiService } from './../services/api.service'
 import { Effect, Actions, ofType } from '@ngrx/effects'
 import { map, mergeMap } from 'rxjs/operators'
 import { Observable } from 'rxjs'
@@ -23,14 +23,14 @@ export class UserEffects {
     ),
   )
 
-  // @Effect() deleteUser$: Observable<Action> = this.actions$.pipe(
-  //   ofType<userActions.DeleteUserAction>(types.DELETE_USER),
-  //   mergeMap(action =>
-  //     this.api
-  //       .deleteUser(action.payload)
-  //       .pipe(
-  //         map(user => new userActions.DeleteCustomerSuccessAction(user.id)),
-  //       ),
-  //   ),
-  // )
+  @Effect() deleteUser$: Observable<Action> = this.actions$.pipe(
+    ofType<userActions.DeleteUserAction>(types.DELETE_USER),
+    mergeMap(action =>
+      this.api
+        .deleteUser(action.payload)
+        .pipe(
+          map(user => new userActions.DeleteCustomerSuccessAction(user.id)),
+        ),
+    ),
+  )
 }
