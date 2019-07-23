@@ -21,8 +21,8 @@ export class ApiService {
     )
   }
 
-  deleteUser(user: User | number): Observable<User> {
-    const id = typeof user === 'number' ? user : user.id
+  deleteUser(user: User | string): Observable<User> {
+    const id = typeof user === 'string' ? user : user.id
     const url = `${this.baseUrl}/${id}`
     return this.http.delete<User>(url, httpOptions).pipe(
       tap(users => console.log(`deleted user id=${users.id}`)),
